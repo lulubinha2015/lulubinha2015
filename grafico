@@ -1,0 +1,22 @@
+gantt
+    title Atividades Desenvolvidas em 2023 - Mandato Deputada Federal Camila Jara
+    dateFormat  YYYY-MM-DD
+    section Eventos
+    Live GT Pantanal e Frente Ambientalista       :done, 2023-01-15, 2023-01-20
+    Produção de Insumos Técnicos para Audiência Pública RPPN :done, 2023-02-01, 2023-02-10
+    Participação no Lançamento em Dubai          :done, 2023-03-05, 2023-03-08
+    Exposição Pantanal: Herança e Legado          :done, 2023-04-10, 2023-04-15
+    Bancada do Planeta - Lançamento em Dubai, COP28     :done, 2023-05-20, 2023-05-22
+    CMCVM - Sessão Especial Outubro Rosa       :done, 2023-06-10, 2023-06-12
+    Evento CMCVM - Novembro Negro       :done, 2023-11-20, 2023-11-22
+    Protocolo de Ofício para Aluguel Social     :done, 2023-12-01, 2023-12-05
+    
+    section Atividades
+    Briefing para o Painel da COP28          :done, 2023-01-25, 2023-01-26
+    Mapeamento de Eventos em Dubai       :done, 2023-02-15, 2023-02-16
+    Briefing Bancada do Planeta      :done, 2023-03-10, 2023-03-12
+    Mapeamento e Mobilização de Frentes Ambientalistas Locais       :done, 2023-04-01, 2023-04-02
+    Reuniões e Briefings Diversos      :done, 2023-05-01, 2023-05-02
+    Finalização da Lei do Pantanal       :done, 2023-06-15, 2023-06-18
+    Reuniões sobre Hidrovia Paraguai-Paraná      :done, 2023-07-05, 2023-07-06
+    Participação e Monitoramento de Projetos Prioritários        :done, 2023-08-15, 2023-08-16
